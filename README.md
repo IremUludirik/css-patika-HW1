@@ -1,6 +1,6 @@
-# site-outline
+# site-outline-musicStore
 
-https://iremuludirik.github.io/site-outline/
+https://iremuludirik.github.io/site-outline-musicStore/
 
 CSS patika.dev ödev-1
 
