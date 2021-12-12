@@ -1,6 +1,6 @@
 # site-outline
 
-https://iremuludirik.github.io/css-site-outline/
+https://iremuludirik.github.io/site-outline/
 
 CSS patika.dev ödev-1
 
