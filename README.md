@@ -1,4 +1,4 @@
-# css-site-outline
+# site-outline
 
 https://iremuludirik.github.io/css-site-outline/
 
